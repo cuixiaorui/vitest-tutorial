@@ -20,3 +20,13 @@ This is a collection of simple demos of vitest.js.
 		/// <reference types="vitest" />
 	```
   - vitest.config.js
+
+## Demo02: Test Vue Component With VTU
+- 测试 vue3 的组件
+  - .vue
+  - .jsx/tsx
+- 结合 VTU
+- jsdom
+- 配置
+  - transformMode
+  - environment 
